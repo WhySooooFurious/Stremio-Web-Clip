@@ -6,5 +6,5 @@ Check Releases to download the profile.
 Steps to install:
 1. Download the profile from releases
 2. Go to Settings
-3. Go to General>VPN & Device Management
+3. Go to General > VPN & Device Management
 4. Install the downloaded profile
